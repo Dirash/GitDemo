@@ -13,6 +13,12 @@ public class Myname {
 		System.out.println("old");
 		System.out.println("old");
 	}
+	public void Totaol3(){
+		System.out.println("old");
+		System.out.println("old");
+		System.out.println("old");
+		System.out.println("old");
+	}
 
 
 }
