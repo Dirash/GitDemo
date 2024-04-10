@@ -73,7 +73,7 @@ public class newpackage {
 	  Assert.assertEquals(driver.findElement(By.tagName("p")).getText(), "You are successfully logged in.");
       Assert.assertEquals(driver.findElement(By.cssSelector("div[class='login-container'] h2")).getText(), "Hello Dirash,");
 	
-
+      System.out.println("Dirash pls check");
 
 	   
 }
